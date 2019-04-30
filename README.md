@@ -1,7 +1,7 @@
 # 基于GAN的验证码破解
+![sample](sample.jpg)
 
 本项目是对暗网Dream Market的验证码进行破解，并实现自动登陆爬取功能。
-![sample](sample.jpg)
 
 模型上主要参考了这篇[SimGAN-Captcha](https://github.com/rickyhan/SimGAN-Captcha)。
 
